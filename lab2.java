@@ -39,5 +39,6 @@ public class lab2 {
 	    }System.out.println("The factorial of the number n is: "+"n!"+"= "+factorial);
 		}
 	  }
-	}
+	}exit
+	
            
